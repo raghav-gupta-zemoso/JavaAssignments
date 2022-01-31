@@ -1,4 +1,4 @@
-package raghav.assignment5.data;
+package com.assignments.raghav.assignment5.data;
 
 public class InitializationAssignment {
     int var1;

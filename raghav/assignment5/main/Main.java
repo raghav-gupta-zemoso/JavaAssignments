@@ -1,7 +1,7 @@
-package raghav.assignment5.main;
+package com.assignments.raghav.assignment5.main;
 
-import raghav.assignment5.data.InitializationAssignment;
-import raghav.assignment5.singleton.Singleton;
+import com.assignments.raghav.assignment5.data.InitializationAssignment;
+import com.assignments.raghav.assignment5.singleton.Singleton;
 
 public class Main {
     public static void callingOtherClass()

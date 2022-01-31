@@ -1,4 +1,4 @@
-package raghav.assignment5.singleton;
+package com.assignments.raghav.assignment5.singleton;
 
 public class Singleton {
     String str;
