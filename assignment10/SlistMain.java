@@ -1,5 +1,5 @@
 package com.assignments.assignment10;
-
+//
 public class SlistMain {
     public static void main(String[] args) {
         SList<Integer> list=new SList<>();

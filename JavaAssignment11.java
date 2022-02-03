@@ -3,7 +3,8 @@ package com.assignments;
 import java.io.*;
 import java.util.HashMap;
 import java.util.Scanner;
-
+//Using TextFile and a Map<Character,Integer>,
+// create a program that takes the file name as a command line argument and counts the occurrence of all the different characters
 public class JavaAssignment11 {
     public static void checkOccurence(String filename)
     {
