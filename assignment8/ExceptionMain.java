@@ -1,5 +1,6 @@
 package com.assignments.assignment8;
-
+//Create three new types of exceptions. Write a class with a method that throws all three. In main( ), call the method but only use a single catch clause that will catch all three types of exceptions.
+// Add a finally clause and verify that your finally clause is executed
 public class ExceptionMain {
     public static void checkName(String str) throws NameException
     {
@@ -49,6 +50,9 @@ public class ExceptionMain {
             checkDiv(25,0);
         } catch (CalcException e) {
             e.printStackTrace();
+        }
+        finally {
+            System.out.println("always executed");
         }
     }
 }
